@@ -3,7 +3,7 @@
     "description": "Agama-LDAP-PW provides flow to password authenticate a person on remote LDAP server.",
     "type": "community",
     "author": "GluuFederation",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "authorWebsite": "https://github.com/GluuFederation/agama-ldap",
     "githubUri": "https://github.com/GluuFederation/agama-ldap",
     "license": "apache-2.0",
